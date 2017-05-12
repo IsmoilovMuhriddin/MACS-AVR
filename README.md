@@ -1,2 +1,2 @@
-# MACS-App
-Android app for smart home MACS(Modern Air Conditioning System)
+# MACS-AVR
+AVR ATMEGA-128 for smart home MACS(Modern Air Conditioning System)
