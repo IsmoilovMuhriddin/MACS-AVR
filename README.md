@@ -12,3 +12,4 @@ Api.ai (for creating bot)
 
 Additional android app for this project [here](https://github.com/IsmoilovMuhriddin/MACS-App)
 
+![Alt text](media/IMG_6145.jpg)
