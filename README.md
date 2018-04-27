@@ -12,4 +12,4 @@ Api.ai (for creating bot)
 
 Additional android app for this project [here](https://github.com/IsmoilovMuhriddin/MACS-App)
 
-![Alt text](/media/IMG_6145.jpg?raw=true "On Exhibition 11/05/2017")
+![picture](media/IMG_6145.JPG)
